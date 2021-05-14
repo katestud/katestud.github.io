@@ -1,0 +1,19 @@
+name: Spell Check
+
+# Hat tip to SeanKilleen for this workflow
+# https://seankilleen.com/2021/01/adding-spell-checking-to-my-blogs-build-process-with-github-actions-and-cspell/
+
+on: push
+
+jobs:
+  spellchecking:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: Check out the code
+      - uses: actions/setup-node@v1
+        name: Run spell check
+        with:
+          node-version: "12"
+      - run: npm install -g cspell
+      - run: cspell --config ./cSpell.json "**/*.md"
