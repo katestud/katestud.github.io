@@ -48,6 +48,8 @@ plainwhite:
   navigation:
     - title: About
       url: "/about"
+    - title: Other Writings
+      url: "/other-writings"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

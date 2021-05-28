@@ -2,10 +2,13 @@
     "version": "0.1",
     "language": "en",
     "words": [
-        "Studwell",
+        "Gifbowl",
         "Lere",
-        "transcoding",
-        "SLSA"
+        "Macroservice",
+        "Pixate",
+        "SLSA",
+        "Studwell",
+        "transcoding"
     ],
     "ignoreWords": [
         "weeknotes"
