@@ -2,18 +2,20 @@
     "version": "0.1",
     "language": "en",
     "words": [
+        "Codespace",
+        "Codespaces",
+        "Elhage's",
         "Gifbowl",
+        "IPFS",
+        "katestud",
+        "katestud's",
         "Lere",
         "Macroservice",
         "Pixate",
+        "seejohnrun",
         "SLSA",
         "Studwell",
-        "transcoding",
-        "katestud",
-        "katestud's",
-        "IPFS",
-        "seejohnrun",
-        "Elhage's"
+        "transcoding"
     ],
     "ignoreWords": [
         "weeknotes"
