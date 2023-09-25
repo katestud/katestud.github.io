@@ -6,4 +6,4 @@ permalink: /about/
 
 Hi! I'm Kate Studwell. I'm currently an engineer at [GitHub](https://github.com/katestud).
 
-Right now, I'm serving as a technical advisor, which means I get to work across the engineering org and help teams reduce friction and ship great products.
+Right now, I'm serving as a staff engineer in the developer experience organization, which means I get to work on projects aimed at reducing friction and making it safer and more delightful for github teams to ship great products.
