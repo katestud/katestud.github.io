@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "strangeloop: it's a wrap"
-date:   2022-09-29 15:34:03 -0400
+date:   2023-09-25 15:34:03 -0400
 categories: "conference notes"
 ---
 
