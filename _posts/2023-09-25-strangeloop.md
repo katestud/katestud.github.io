@@ -10,7 +10,7 @@ conference in St. Louis. I had a great time; it's so inspiring to see all the
 different directions we can take technology and how playful it can be. Randall Munroe's
 closing keynote really wrapped the conference up in positive vibes with a reminder
 that [people are learning new things every day](https://xkcd.com/1053/), and it's
-up to all of us to lift each other up as we learn rather than ear each other down
+up to all of us to lift each other up as we learn rather than tear each other down
 because of our own insecurities. It was great to hear that message from Randall
 himself (and to get to tell him how much I appreciated the message at his book signing)!
 
