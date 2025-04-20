@@ -219,3 +219,4 @@ Some references:
 
 - [Beep It Repo](https://github.com/katestud/beep-it/)
 - [Recurse Center Presentation Slides](https://katestud.dev/bop-it-preso/)
+- [Video Demo](https://youtu.be/D2d87I5KOUs)
